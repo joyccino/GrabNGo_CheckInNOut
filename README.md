@@ -56,22 +56,21 @@
 * 다양한 센서와 다량의 카메라를 사용하는 기존의 언택트 스토어 기술을 카메라 한 대와 최신 컴퓨터 비전 알고리즘만으로 단기간 내 구현 및 최적화에 도전.<br><br>
 
 # 📝 레퍼런스 (Reference)
-* <b> GitHub </b><br>
-Yolov4 https://github.com/Tianxiaomo/pytorch-YOLOv4 <br>
-Yolov5 https://github.com/ultralytics/yolov5 <br>
-DeepSort https://github.com/mikel-brostrom/Yolov5_DeepSort_Pytorch <br>
-OpenPose https://github.com/CMU-Perceptual-Computing-Lab/openpose.git <br>
-Darknet https://github.com/pjreddie/darknet.git <br>
-LabelImg https://github.com/tzutalin/labelImg <br>
-MTCNN https://github.com/ipazc/mtcnn <br>
-FaceRecognition https://github.com/ageitgey/face_recognition <br>
-FaceNet https://github.com/timesler/facenet-pytorch <br>
+* <b> GitHub Repositories </b><br>
+[Yolov4](https://github.com/Tianxiaomo/pytorch-YOLOv4) <br>
+[Yolov5](https://github.com/ultralytics/yolov5) <br>
+[DeepSort](https://github.com/mikel-brostrom/Yolov5_DeepSort_Pytorch)<br>
+[OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose.git) <br>
+[Darknet](https://github.com/pjreddie/darknet.git) <br>
+[LabelImg](https://github.com/tzutalin/labelImg) <br>
+[MTCNN](https://github.com/ipazc/mtcnn) <br>
+[FaceRecognition](https://github.com/ageitgey/face_recognition) <br>
+[FaceNet](https://github.com/timesler/facenet-pytorch) <br>
 * <b>Official Papers</b> <br>
-Yolov4 https://arxiv.org/pdf/2004.10934.pdf <br>
-Yolov5  -  On the way! <br>
-FaceRecognition https://arxiv.org/pdf/1804.06655.pdf <br>
-FaceNet https://arxiv.org/pdf/1503.03832.pdf <br>
-Face Augmentation https://arxiv.org/pdf/1904.11685.pdf <br>
-Joint Face Detection and Alignment https://arxiv.org/pdf/1604.02878.pdf
-* <b>Pretrained Model for FaceNet</b> <br>
-https://drive.google.com/file/d/0B5MzpY9kBtDVZ2RpVDYwWmxoSUk/edit
+[Yolov4](https://arxiv.org/pdf/2004.10934.pdf)<br>
+Yolov5 -  On the way! <br>
+[FaceRecognition](https://arxiv.org/pdf/1804.06655.pdf) <br>
+[FaceNet](https://arxiv.org/pdf/1503.03832.pdf) <br>
+[Face Augmentation](https://arxiv.org/pdf/1904.11685.pdf) <br>
+[Joint Face Detection and Alignment](https://arxiv.org/pdf/1604.02878.pdf) <br>
+[Download Pretrained Model for FaceNet](https://drive.google.com/file/d/0B5MzpY9kBtDVZ2RpVDYwWmxoSUk/edit)
