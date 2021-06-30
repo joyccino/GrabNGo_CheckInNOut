@@ -73,4 +73,4 @@ Yolov5 -  On the way! <br>
 [FaceNet](https://arxiv.org/pdf/1503.03832.pdf) <br>
 [Face Augmentation](https://arxiv.org/pdf/1904.11685.pdf) <br>
 [Joint Face Detection and Alignment](https://arxiv.org/pdf/1604.02878.pdf) <br>
-[Download Pretrained Model for FaceNet](https://drive.google.com/file/d/0B5MzpY9kBtDVZ2RpVDYwWmxoSUk/edit)
+Download Pretrained Model for FaceNet [here!](https://drive.google.com/file/d/0B5MzpY9kBtDVZ2RpVDYwWmxoSUk/edit)
